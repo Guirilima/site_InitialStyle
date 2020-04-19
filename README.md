@@ -1,2 +1,4 @@
-# site_InitialStyle
-Site Simples, feito para aprendizado e guiado enquanto realizava meus estudos no BootCamp da Codenation de React 
+# Site_InitialStyle
+Site Simples, com foco no aprimoramento pessoal e profissional. Guiado enquanto realizava estudos no BootCamp da Codenation de React .
+
+![](assets/image/Preview.jpg)
